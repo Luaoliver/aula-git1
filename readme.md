@@ -22,5 +22,3 @@ https://git-scn.com/download
 - "git log" // visualiza os pontos na linha do tempo / commit
 - "git status" // informa o estado das alterações no nosso projeto
 - "git show" // apresenta determinado potno na história
-
---
