@@ -12,7 +12,7 @@ https://git-scn.com/download
 
 - [x] começar uma nova funcionalidade.
 - [x] adicionar novas funcionalidades.
-- [x]deletar a branch da nova funcionalidade.
+- [x] deletar a branch da nova funcionalidade.
 
 - [x] colocar o projeto na nuvem.
 
